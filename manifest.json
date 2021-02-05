@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Projekt_Deus_Modpack",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "",
   "files": [
     {
@@ -220,6 +220,11 @@
       "required": true
     },
     {
+      "projectID": 238891,
+      "fileID": 3186919,
+      "required": true
+    },
+    {
       "projectID": 282940,
       "fileID": 3186581,
       "required": true
@@ -285,13 +290,13 @@
       "required": true
     },
     {
-      "projectID": 388800,
-      "fileID": 3187811,
+      "projectID": 252239,
+      "fileID": 3168405,
       "required": true
     },
     {
-      "projectID": 252239,
-      "fileID": 3168405,
+      "projectID": 388800,
+      "fileID": 3187811,
       "required": true
     },
     {
@@ -315,13 +320,13 @@
       "required": true
     },
     {
-      "projectID": 296028,
-      "fileID": 3162246,
+      "projectID": 243121,
+      "fileID": 3186934,
       "required": true
     },
     {
-      "projectID": 243121,
-      "fileID": 3186934,
+      "projectID": 296028,
+      "fileID": 3162246,
       "required": true
     },
     {
@@ -330,13 +335,13 @@
       "required": true
     },
     {
-      "projectID": 398521,
-      "fileID": 3188508,
+      "projectID": 237307,
+      "fileID": 3188684,
       "required": true
     },
     {
-      "projectID": 237307,
-      "fileID": 3188684,
+      "projectID": 398521,
+      "fileID": 3188508,
       "required": true
     },
     {
@@ -345,13 +350,13 @@
       "required": true
     },
     {
-      "projectID": 353928,
-      "fileID": 3180440,
+      "projectID": 247560,
+      "fileID": 3182507,
       "required": true
     },
     {
-      "projectID": 247560,
-      "fileID": 3182507,
+      "projectID": 353928,
+      "fileID": 3180440,
       "required": true
     },
     {
@@ -400,23 +405,23 @@
       "required": true
     },
     {
-      "projectID": 382216,
-      "fileID": 3157757,
-      "required": true
-    },
-    {
       "projectID": 438447,
       "fileID": 3183710,
       "required": true
     },
     {
-      "projectID": 314906,
-      "fileID": 3189022,
+      "projectID": 382216,
+      "fileID": 3157757,
       "required": true
     },
     {
       "projectID": 268647,
       "fileID": 3187654,
+      "required": true
+    },
+    {
+      "projectID": 314906,
+      "fileID": 3189022,
       "required": true
     },
     {
@@ -455,13 +460,13 @@
       "required": true
     },
     {
-      "projectID": 421850,
-      "fileID": 3186128,
+      "projectID": 383070,
+      "fileID": 3031920,
       "required": true
     },
     {
-      "projectID": 383070,
-      "fileID": 3031920,
+      "projectID": 421850,
+      "fileID": 3186128,
       "required": true
     },
     {
@@ -490,13 +495,13 @@
       "required": true
     },
     {
-      "projectID": 283644,
-      "fileID": 3172794,
+      "projectID": 386134,
+      "fileID": 3182562,
       "required": true
     },
     {
-      "projectID": 386134,
-      "fileID": 3182562,
+      "projectID": 283644,
+      "fileID": 3172794,
       "required": true
     }
   ],
